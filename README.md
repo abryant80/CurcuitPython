@@ -1,28 +1,119 @@
-# CPyProjectTemplate
-Put a description for your project here!
-This repo is a template VS code project for CircuitPython projects that automatically uploads your code to the board when you press F5. Requires F5Anything extension.
-## Use
-### Every new project:
-1. Make a GitHub account if you don't have one with your normal school credentials and sign into it.
-2. Click the big green Use This Template button at the top of this page.
-3. Name the new repository something appropriate to the purpose of your project (Your first one should probably be named `CircuitPython`).
-4. Hit "Create repository from template." (The default settings should be fine.)
-5. Open VS Code on your machine. Click Clone Repository.
-6. Paste in the link to the new repository you've just created from the template and hit enter.
-7. For the location, select the "STUDENT" drive if you have it or the document folder if you don't.
-8. Hit "Open Cloned Directory."
-9. Install the reccomended extensions when you get that popup in the lower right corner.
-### To commit from VS Code:
-1. Go to the little branch icon in the left bar of VS Code.
-2. Click the + icon next  to the files you want to commit.
-3. Write a message that descibes your changes in the "Message" box and hit commit.
-4. If you get an error about user.name and user.email, see the next section.
-5. Click the "Sync changes" button.
-### If you get an error about user.name and user.email
-1. In VS Code, hit `` Ctrl+Shift+` ``
-2. Filling in your actual information, run the following commands one line at a time. The paste shortcut is `Ctrl+V` or you can right click then hit paste. Spelling must match exactly:
-```
-git config --global user.name YOURUSERNAME
-git config --global user.email YOURSCHOOLEMAIL
-```
-3. Return to step 3 of the previous section.
+# Aaron Engineering 3 Notebook
+This is my Engineering Notebook where I describe all the projects that I do at Engineering 3 at Charlottesville High School
+
+---
+## Table of Contents
+* [Table of Contents](#Table-of-Contents)
+* [HelloCircuitPython](#HelloCircuitPython)
+* [CircuitPythonServo](#CircuitPythonServo)
+* [CircuitPythonDistanceSensor](#CircuitPythonDistanceSensor)
+* [CircuitPythonLCD](#CircuitPythonLCD)
+* [MotorControl](#MotorControl)
+* [TemperatureSensor](#TemperatureSensor)
+
+---
+
+## HelloCircuitPython
+
+### Description
+
+Show that i've got the metro and vsCode working.
+
+### Evidence
+
+### Image
+
+### Reflection
+---
+
+
+## CircuitPythonServo
+
+### Description
+
+Im going to make a servo work in CurcuitPython
+
+### Evidence
+
+### Image
+
+### Reflection
+
+---
+
+
+## CircuitPythonDistanceSensor
+
+### Description
+Im going to get the disatance sensor read how far the nearest object is
+### Evidence
+
+### Image
+
+### Reflection
+
+------
+
+
+## CircuitPythonLCD
+
+### Description
+im going to get the LCD pack displaying numbers
+### Evidence
+
+### Image
+
+### Reflection
+---
+
+
+## MotorControl
+
+### Description
+You use a potentiometer to control the motor
+ 
+### Evidence
+
+### Image
+
+### Reflection
+---
+
+
+## TemperatureSensor
+
+### Description
+ Im going to get the TemperatureSensor working
+### Evidence
+
+### Image
+
+### Reflection
+
+
+
+
+## Example Markdown
+## Base
+
+### Description
+
+The first assignment is to create the caster base.  The base's dimensions are 200 mm x 120 mm and 8 mm thick.  It has 6 holes 10 mm wide and 20 mm from the edge equally spaced along the edges.
+
+### Evidence
+[The Base in Onshape](https://cvilleschools.onshape.com/documents/0d70f655203ca304cb3c5b7d/w/f55603f962f6fc74f5548a68/e/41d730c570a8d75fce9f51b6)
+
+### Image
+
+<img src="images/Base.jpg" alt="The Base" width="200">
+
+### Reflection
+
+This was my first Onshape part and [following along with Dr. Shields made it super easy.](https://www.youtube.com/watch?v=93BFUD-HAG8&feature=emb_title&scrlybrkr=5670f0b4)  I learned about 
+* sketching (shortcut **shift-s**)
+* constructions lines (shortcut **Q**)
+* dimensions (shortcut **D**)
+* extruding both add and remove (shortcut key **E**)
+* linear patterns (no shortcut)
+
+Onshape is awesome.  I found it really helpful to rename all my sketches.  It is going to be a GREAT year in engineering.
