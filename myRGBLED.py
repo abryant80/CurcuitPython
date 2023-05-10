@@ -1,3 +1,4 @@
+# Aaron 
 import board
 import time
 import neopixel
@@ -9,11 +10,11 @@ print("Make it red!")
 
 while True:
     print("Make it red!")
-    dot.fill((255, 0, 0))
-    time.sleep(3)
-    print("Make it green!")
+    dot.fill((255, 0, 0))  # red
+    time.sleep(3)          # delay 3 seconds
+    print("Make it green!")  # green
     dot.fill((0, 255, 0))   
-    time.sleep(3)
-    print("Make it blue")
-    dot.fill((0, 0, 255))
-    time.sleep(3)
+    time.sleep(3)       # delay 3 seconds
+    print("Make it blue")  
+    dot.fill((0, 0, 255))  # blue
+    time.sleep(3)    # delay 3 seconds
