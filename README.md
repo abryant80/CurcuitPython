@@ -24,6 +24,8 @@ Show that i've got the metro and vsCode working.
 ### Image
 
 ### Reflection
+
+I set up my vs code.I learned about the rgb scale.I learned about the delay of time.
 ---
 
 
