@@ -23,7 +23,7 @@ Show that i've got the metro and vsCode working.
 
 ### Image
 
-./Images/SwingArm.png
+![sa](./Images/SwingArm.png)
 
 ### Reflection
 
