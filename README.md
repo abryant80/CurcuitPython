@@ -46,6 +46,7 @@ Im going to make a servo work in CurcuitPython
 ### Image
 
 ### Reflection
+To get started I had to look at othr people code to reference.The first part was hard to get started.But after I got started and all came together and I got it done.
 
 ---
 
@@ -61,6 +62,7 @@ Im going to get the disatance sensor read how far the nearest object is
 ![smile](./Images/.)
 
 ### Reflection
+This assigment was simple.When the distance sensor detects something it flashes red twice.I had to use code to reference what im doing to complete this assignment.
 
 ------
 
@@ -74,6 +76,7 @@ im going to get the LCD pack displaying numbers
 ### Image
 
 ### Reflection
+
 ---
 
 
