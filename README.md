@@ -90,6 +90,7 @@ You use a potentiometer to control the motor
 ### Image
 
 ### Reflection
+I struggled with this assignment because there wasn't nothing to reference.But with teacher assistance I figured it outMy code was right but I messed up mmy wiring.
 ---
 
 
