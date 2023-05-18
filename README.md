@@ -46,7 +46,7 @@ Im going to make a servo work in CurcuitPython
 ### Image
 
 ### Reflection
-To get started I had to look at othr people code to reference.The first part was hard to get started.But after I got started and all came together and I got it done.
+To get started I had to look at other people code to reference.The first part was hard to get started.But after I got started and all came together and I got it done.
 
 ---
 
