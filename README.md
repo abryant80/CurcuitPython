@@ -58,6 +58,8 @@ Im going to get the disatance sensor read how far the nearest object is
 
 ### Image
 
+![smile](./Images/smile.png)
+
 ### Reflection
 
 ------
