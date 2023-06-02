@@ -59,7 +59,7 @@ Im going to get the disatance sensor read how far the nearest object is
 
 ### Image
 
-![smile](./Images/.)
+![](./Images/.)
 
 ### Reflection
 This assigment was simple.When the distance sensor detects something it flashes red twice.I had to use code to reference what im doing to complete this assignment.
